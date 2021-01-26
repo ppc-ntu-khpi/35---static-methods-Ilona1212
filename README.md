@@ -69,6 +69,7 @@ public class TestResult {
 }
 ```
 Фото виконання програми:
+
 ![alt-текст](https://github.com/ppc-ntu-khpi/35---static-methods-Ilona1212/blob/master/Images/1.png?raw=true)
 ![alt-текст](https://github.com/ppc-ntu-khpi/35---static-methods-Ilona1212/blob/master/Images/2.png?raw=true)
 ![alt-текст](https://github.com/ppc-ntu-khpi/35---static-methods-Ilona1212/blob/master/Images/3.png?raw=true)
